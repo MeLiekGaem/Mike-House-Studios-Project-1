@@ -1,0 +1,56 @@
+Most moves go in, 1st; keybind Z, 2nd; X, 3rd; C, 4th; V, 5th (optional movement ability); F
+
+
+Wind (Beginner power):
+-Wind burst, quick, spread burst of wind with knockback, like a shotgun buckshot
+-Pressure Combustion. Wind burst but in all directions
+-Great Tornade, user launches a tornado forward, catching and dragging enemies
+-[TBD]
+
+EYE OF THE STORM:
+1. [TBD]
+2. [TBD]
+3. [TBD]
+4. likely just be aura farming, as the user just sits and observes peacefully as an entire C5 Cyclone rages around them.
+5. [TBD](Mobility)
+
+Inferno, ranged, sniper type ability that rewards precision with power
+-Scorching Sniper, After a short windup, the user fires a fast flaming bullet at cursor direction, leaving hit enemies burnt
+-Inferno Slash, shoots a mid-ranged slash projectile. Thats it for now
+-Wildfire (referencing Firing a gun wildly) a gatling gun type ability, fires bullets at cursor direction rapidly. Basically a lower damaged Scorching Sniper but 20 times more pew.
+-[TBD]
+-Propulsion, adds a bodyvelocity to the player to boost them, dealing little damage to players they hit while dashing
+
+SOLAR:
+[TBD]
+[TBD]
+[TBD]
+Ult: Judgement Day (Referencing the Sun's supernova as the end of the world, and Judgement Day being the end in religeon)
+User flys up in a cinematic, raises their arms, and a large fireball falls from the sky and is suspended mid air. Then, the user gets a bird's eye view of the map, and can drop the fireball wherever they want. Impact frames during impact, and I-Frames during move.
+[TBD] likely a rocket flight move that stops if someone hits them.
+
+Glacial
+-Frozen Spear. Harpoon/Grappel type ability. Hit enemies are pulled, but if you hit a wall, you are pulled.
+-Frostbite. Wind's Pressure Combustion but freezes instead of KBs
+-[TBD]
+-Blizzard, self explanatory
+
+ARCTIC HARBINGER
+[TBD]
+[TBD]
+[TBD]
+The Return of The Ice Age. Creates a large, 360 degrees sub zero epoch, with a starting cutscene. Freezes any enemy and deals heavy damage on contact. Then a frozen beam travels from the player to any other player who is frozen, including ones not frozen by the Ice Age caster, unfreezing them, but dealing damage.
+[TBD] movement 
+
+Starlight
+Shooting star, user kinda just throws a shooting star at mach 5 with a nova explosion on impact. Pulls hit players to center of explosion. Insp. by Forsaken Noli's Nova ability
+Galactic Smite. Kind of like Blox Fruits Light's unawakened V move, Sky Beam Barrage mixed with old Gravity's I beleive V move. Fires highly concentrated beams of solar radiation to cursor position, in a Barrage
+Black Hole. User throws a black hole that slowly sucks in enemies, dealing tick damage for each slurp tick. Explodes after 5 seconds or if someone reaches the Event Horizon.
+Wormhole Maul. Summons a big ah wormhole. Alien space worm flies through it, then targeting an enemy and ramming them before reentering wormhole.
+Star Crash. Summons a star, grabs it, it flies up, and you can choose where to fly to, within a range. (Def not that one Kirby reference)
+
+Terrestrial Nova, (Better Starlight)
+Impact Zone, larger shooting star basically.
+Celestial Body (Pun to your body being celestial, and a celestial body planet). Become a shooting star, ram people, and has a mini animation on impact
+Big Rock (Placeholder Name) that big rock ability
+Extinction Event. Self explanatory. Wipe out the dinosaurs.

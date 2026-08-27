@@ -1,0 +1,3 @@
+Me and my friends started a Roblox Dev Team a few years ago, called Mike House Studios (MHS), we have a few games we quit on because our low skill level, but we've grown and improved, and are now working to ship a new, better game.
+It's a match based PvP game where you join matches or FFA servers to battle others, earn currency, and buy new elemental powers.
+We have a core mechanic called Binding, where you can become one with your power if you truely master it, becoming unable to switch powers, but having the bound one heavily empowered.
